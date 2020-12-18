@@ -1,3 +1,3 @@
 # git-essentials
 
-# release-notes
+# notes
